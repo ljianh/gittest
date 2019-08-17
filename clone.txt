@@ -1,2 +1,3 @@
 这是克隆的新增文件
 vchartclone add
+vchart add
